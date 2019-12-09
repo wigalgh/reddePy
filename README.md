@@ -23,7 +23,7 @@ or
 
 pip install reddepy
 ```
-
+>You don't need to clone this repository to use this package in your own projects. Use Npm to install it from [PYPI](https://pypi.org/project/reddepy/).
 
 ## Usage
 
